@@ -39,6 +39,10 @@ A high-performance backtesting engine for **EMA Crossover** trading strategy on 
 
 > Constraint: fast EMA < slow EMA (invalid pairs are skipped automatically)
 
+## Live Demo & Local Setup
+
+> **Note:** The [live demo](https://ema-strategy-backtester.up.railway.app/) is hosted on a free-tier server and is suitable for browsing the UI and viewing pre-computed results. **For running actual backtests** (grid search across thousands of parameter combinations), clone the repo and run locally — backtesting is CPU-intensive and requires a proper machine.
+
 ## Quick Start
 
 ### 1. Install dependencies
